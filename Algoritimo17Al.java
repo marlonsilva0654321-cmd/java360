@@ -1,11 +1,16 @@
 public class Algoritimo17Al {
     public void main(){
-        int i = 1;
+        int i = 0;
         do {
 
             IO.println(i);
             i++;
 
-        } while (i<= 5);
+        } while (i<= 200);
+        if (i % 2 == 0){
+            
+            IO.println(i);
+
+        }
     }
 }
