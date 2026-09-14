@@ -1,8 +1,14 @@
+//Pacote
+//www.jp.com.br --> br.com.jp.www
 import java.util.List;
 public class Algoritimo19Al {
-    public void main(){
+    void main(){
+//Notificação de mensagem não lidas
+//Coleções, Lista Link, Mapas e Dicionário (Classe,Classe Abstrata, Interface, Static)
 
-        List<Integer> numero = List.of(1, 2, 3, 4, 5);
+        List<String> contatos = List.of("Duda", "Alice", "Fernanda", "Jose", "Carlos");
+        // n-> ... parametros -> ação         
+        contatos.forEach(n -> IO.println(n));
         //Sintaxe da lambda: (pa)
 
     }

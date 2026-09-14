@@ -1,16 +1,14 @@
 public class Algoritimo18Al {
-    public void main(){
-        int [] numeros = { 1, 2, 3, 4, 5 };
+    public static void main(String[] args) {
+        int[] pares = new int[101];
+        int indice = 0;
 
-        for (int numero : numeros){
-
-            IO.println(numero);      
-        
+        for (int i = 0; i <= 200; i += 2) {
+            pares[indice] = i;
+            indice++;
         }
-        
-        
-
-
+        for (int j = 0; j < pares.length; j++) {
+            System.out.println(pares[j]);
+        }
     }
-
 }
