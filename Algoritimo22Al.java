@@ -3,7 +3,7 @@ public class Algoritimo22Al {
 
         IO.println("Seja Bem-Vindo!!");
         String usuario = "senai";
-        
+        int tentativas = 0;
 
     }
     
