@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo17Al {
     public void main(){
         int i = 0;

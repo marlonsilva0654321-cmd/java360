@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo8Al {
     
     void main(){

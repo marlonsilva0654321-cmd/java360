@@ -1,3 +1,8 @@
+import java.io.FileWriter; //arquivo
+import java.io.IOException; //erro
+import java.time.LocalDateTime; //data e hora
+import java.time.format.DateTimeFormatter; //formata
+
 public class Algoritimo51 {
     public void main(){
         double resultado = 0;

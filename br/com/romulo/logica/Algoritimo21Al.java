@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo21Al {
     public static void main (String [] args){
         int[] numero = {45, 67, 89, 34, 23, 56, 78, 98, 45, 34};

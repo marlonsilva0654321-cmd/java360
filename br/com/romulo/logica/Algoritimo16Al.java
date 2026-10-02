@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo16Al {
     public static void main(String [] args){
         int i = 0;

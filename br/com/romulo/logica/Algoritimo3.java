@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo3 {
     void main(){
         //números inteiros de 0 a 1000

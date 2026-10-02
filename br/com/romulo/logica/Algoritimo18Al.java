@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo18Al {
     public static void main(String[] args) {
         int[] pares = new int[101];

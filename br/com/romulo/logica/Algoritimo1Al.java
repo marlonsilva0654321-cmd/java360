@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
 public class Algoritimo1Al {
     void main(){
         IO.println("Quem ousa entrar na sala do Eco?!");

@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
      public class Algoritimo2 {
         void main(){
             IO.println("Quantos Algoritims Vc Já Venceu");

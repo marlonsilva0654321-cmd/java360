@@ -1,3 +1,4 @@
+package br.com.romulo.logica;
   public class Algoritimo2Al {
     public static void main(String[] args) throws Exception {
         System.out.println("Seja Bem vindo ao portal Java 360?");
